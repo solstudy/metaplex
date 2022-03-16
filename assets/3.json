@@ -1,0 +1,54 @@
+{
+  "name": "Hashlips Learning #3",
+  "symbol": "QY",
+  "description": "It's so wonderful to find this project",
+  "seller_fee_basis_points": 100,
+  "image": "3.png",
+  "external_url": "https://www.youtube.com/c/hashlipsnft",
+  "edition": 3,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "High"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "Middle"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "3.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "DUHYga6LsVDgjRjCTyV4r6bYUhv3d1xKHmuuSxeN4KZh",
+        "share": 100
+      }
+    ]
+  }
+}
